@@ -1,4 +1,4 @@
-node_modules/n.DS_Store/n.netlify
+/node_modules
 
 # Local Netlify folder
 .netlify
