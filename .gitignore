@@ -1,4 +1,5 @@
-node_modules
-.idea/vcs.xml
+
+/node_modules
+.idea
 # Local Netlify folder
-#.netlify
+.netlify
